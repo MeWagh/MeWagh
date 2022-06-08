@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeWagh)](https://github.com/MeWagh/github-readme-stats)
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeWagh&show_icons=true&theme=radical)
 
 <!--
 **MeWagh/MeWagh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
