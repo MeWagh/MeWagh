@@ -10,7 +10,7 @@ Father of Eduarda and Heloysa, [Microsoft MVP](https://mvp.microsoft.com/en-us/P
 <p align='center'>
 <img src="https://visitor-badge.glitch.me/badge?page_id=ralmsdeveloper.visitor-badge">
 </p>
--->
+
 [![MVP Badge](https://img.shields.io/badge/-MVP%20Profile-blue?style=flat-square&logo=Microsoft&logoColor=white&link=https://mvp.microsoft.com/en-us/PublicProfile/5003091)](https://mvp.microsoft.com/en-us/PublicProfile/5003091)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ralmsdeveloper/)](https://www.linkedin.com/in/ralmsdeveloper/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ralmsdeveloper)](https://twitter.com/ralmsdeveloper)
@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
--->
 
 <p align="center">
   
